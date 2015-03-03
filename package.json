@@ -1,0 +1,26 @@
+{
+  "name": "screwdriver",
+  "version": "0.0.0",
+  "description": "Middleware for Ruuvi Tracker",
+  "main": "index.js",
+  "dependencies": {
+    "hapi": "~8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tco/screwdriver.git"
+  },
+  "keywords": [
+    "ruuvi"
+  ],
+  "author": "Antti Rintala <antti@rintala.it>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tco/screwdriver/issues"
+  },
+  "homepage": "https://github.com/tco/screwdriver"
+}
